@@ -1,7 +1,7 @@
 import React from "react";
 
-function HomePage() {
-  return <h1>This is the Home Page.</h1>
+function JobsPage() {
+  return <h1>This is the jobs Page.</h1>
 }
 
-export default HomePage;
+export default JobsPage;
